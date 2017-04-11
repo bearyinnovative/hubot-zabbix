@@ -1,0 +1,30 @@
+{
+  "name": "hubot-zabbix",
+  "version": "0.0.0",
+  "private": true,
+  "author": "Yusup <aphawk@gmail.com>",
+  "description": "setup Zabbix with BearyChat adapter",
+  "dependencies": {
+    "aws-sdk": "^2.22.0",
+    "crypto": "0.0.3",
+    "moment": "^2.18.1",
+    "hubot": "^2.19.0",
+    "hubot-bearychat": "^0.4.0",
+    "hubot-diagnostics": "0.0.1",
+    "hubot-google-images": "^0.2.6",
+    "hubot-google-translate": "^0.2.0",
+    "hubot-help": "^0.2.0",
+    "hubot-heroku-keepalive": "^1.0.2",
+    "hubot-maps": "0.0.2",
+    "hubot-pugme": "^0.1.0",
+    "hubot-redis-brain": "0.0.3",
+    "hubot-rules": "^0.1.1",
+    "hubot-scripts": "^2.17.2",
+    "hubot-shipit": "^0.2.0",
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1"
+  },
+  "engines": {
+    "node": "6.10.x"
+  }
+}
